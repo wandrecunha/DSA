@@ -1,0 +1,27 @@
+Como usar o chat gpt de forma correta?
+
+Ele é uma interface de comunicação para IA.
+
+RLHF = Reinforcement Leaning From Human Feedback
+
+1 - Use frases ou perguntas claras e objetivas (para isso é preciso ter conhecimento sobre a área que você deseja conversar com o chat bot).
+
+2- Avalie o resultado e certifique-se que cada resposta é coerente. Não apenas aceite a resposta passivamente. A própria OpenAI avisa que o sistema pode apresentar falhas.
+
+O CHAT GPT é um assistente para aumentar sua produtividade.
+
+---
+
+"Descreva o que é linguagem python" 
+
+"Como surgiu a linguagem Python?"
+
+"Qual o site oficial da Linguagem Pyton?"
+
+"É fácil aprender Linguagem Python?"
+
+"Poderia me dar um exemplo de código em Python?"
+
+"Você vai substituir os professores?"
+
+"Gere código python que crie uma lista com números entre 1 e 100 e então imprima os nũmeros pares, mas somente se o número for divisível por 4."

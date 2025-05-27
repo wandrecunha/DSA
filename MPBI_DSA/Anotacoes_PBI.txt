@@ -1,0 +1,35 @@
+Machine Learning com Python
+
+Como o Power BI se encaixa nessa parada.
+
+A empresa precisa:
+1. Agrupar os clientes em três grupos em similaridade.
+
+-> Grupos por similaridades.
+
+Primeiro grupo:
+Idade;
+
+Segunda regra:
+Renda Anual
+
+Terceira Regra:
+Pontuação gastos.
+
+----
+
+Agrupamento = Cluster = Clusterização
+
+Para trabalhar com ML precisa ter dados históricos.
+
+Agrupamento = segmentação
+
+encontrar clientes similares e fazer agrupamento em grupos.
+
+Pandas = Excel
+Sklearn (KMeans) = Agrupa o algoritmo.
+
+Análise utilizada pela LM
+Como o KMeans chega no resultado? 
+    -> ele calcula a distância matemática.
+    
