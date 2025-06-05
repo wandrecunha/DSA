@@ -33,3 +33,52 @@ Análise utilizada pela LM
 Como o KMeans chega no resultado? 
     -> ele calcula a distância matemática.
     
+Cap17
+Anomalias
+    -> Métodos Estatísticos: esses métodos baseiam-sena análise estatística dos dados.
+        Teste de hipóteses, distribuições de portabilidade e medidas de dispersão.
+        Valores que estão distantes da média ou fora dos intervalos esperados são consideradas anômalas.
+
+    -> Aprendizado Supervisionado: o modelo de machine learning é treinado usando um conjunto de dados rotulado.
+        inclui observações normais e anômalas.
+        O modelo aprende a distinguir as duas classes.
+
+    -> Aprendizado não supervisionado: os algoritmos de Machine Learning são usados para analisar dados não rotulados e identificar padrões ou agrupamentos naturais neles.
+        As anomalias são identificadas como pontos de dados que não se encaixam bem em nenhum desses agrupamentos ou que estão significativamente distantes de outros pontos de dados.
+        Usada técnicas de clustering (K-means) e técnicas de redução de dimensionalidade.
+
+    -> Aprendizado Semi-supervisionado: combina elementos de aprendizado supervisionado e não supervisionado.
+        Os algoritmos são treinados em conjunto de dados parcialmente rotulado, com exemplo de observações normais e um pequeno número de exemplos anômalos.
+
+    -> Metodos baseados em densidade: identifica anomalias como pontos de dados que estão localizados em áreas de baixa densidade do espaço de recursos (atributos)
+
+    -> Metodos baseado em vizinhança: esses métodos comparam a distância ou similaridade entre pontos de dados e seus vizinhos para identificar anomalias.
+        Os pontos de dados que têm vizinhos significativamente diferentes de si mesmos são considerados anômalos.
+
+
+
+Áreas de aplicabilidade
+
+    -> Finanças: Detecção de fraudes em transações bancárias ou de cartão de crédito; monitoramento do mercado financeiro para identificar atividades de insider trading ou manipulação dem ercado.
+
+    -> Cibersegurança: Detecção de intrusões em redes, identificando padrões incomuns de tráfego ou comportamento do usuário; Monitoramento de logs de servidores e sistemas para identificar atividades maliciosas ou não autorizadas.
+
+    -> Manutenção Preventiva: Análise de dados de sensores em equipamentos industriais ou infraestrutura para identificar falhas iminentes ou desempenho degrado; Análise de anomalias em sinais de sensores IoT (Internet das coisas) para identificar padrões incomuns.
+
+    -> Saúde: Identificação de eventos adversos ou erros médicos em registros de parcientes; Monitoramento de sinais vitais e dados de sensores de pacientes para identificar consições anômalas que possam indicar uma deterioração da saúde do paciente.
+
+    -> Monitoramento ambiental: Análse de dados meteorológicos e climáticos para identificar eventos extremos ou mudanças significativas nas condições ambientais; Monitoramento da qualidade do ar e da água para identificar poluição ou contaminação.
+
+    -> Marketing e vendas: Análise de padrões de comportamento do consumidor para identificar segmentos de clientes incomuns ou oportunidades de mercado não exploradas; Identificação de atividades fraudulentas em campanhas publicitárias, como cliques falsos ou impressões.
+
+    -> Redes sociais e análise de texto: Detecção de spam, abuso ou discurso de ódio em plataformas de mídia social e fóruns de discussão; Identificação de notícias falsas ou informações enganosas em fontes de notícias e publicações online.
+
+
+    ----
+
+    Linguagem R 
+    
+    Criar a imagem por meio da linguagem R.
+
+    Linguagem R foi criada com o propósito de realizar análise de estatísticas.
+    

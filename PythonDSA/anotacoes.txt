@@ -25,3 +25,7 @@ O CHAT GPT é um assistente para aumentar sua produtividade.
 "Você vai substituir os professores?"
 
 "Gere código python que crie uma lista com números entre 1 e 100 e então imprima os nũmeros pares, mas somente se o número for divisível por 4."
+
+
+"Qual grande equivoco que impede as pessoas não aprenderem programação?"
+Programar não é sobre resolver código, e sim resolver problemas.
